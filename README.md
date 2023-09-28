@@ -1,2 +1,2 @@
 # meta-orange
-Experimenting
+This is experimental repo. Do not use it
