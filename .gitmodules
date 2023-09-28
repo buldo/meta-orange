@@ -2,3 +2,7 @@
 	path = poky
 	url = git://git.yoctoproject.org/poky.git
 	branch = mickledore
+[submodule "meta-sunxi"]
+	path = meta-sunxi
+	url = git@github.com:buldo/meta-sunxi.git
+	branch = pi-lite
