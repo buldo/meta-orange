@@ -1,3 +1,6 @@
 /tmp
 /bitbake-cookerdaemon.log
 /cache
+/downloads
+/sstate-cache
+/bitbake.lock
