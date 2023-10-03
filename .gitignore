@@ -4,3 +4,11 @@
 /downloads
 /sstate-cache
 /bitbake.lock
+.qmake.cache
+.qmake.stash
+debugfs_script
+config.log
+fstab
+.config.notes
+include/
+.vs/

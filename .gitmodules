@@ -14,3 +14,10 @@
 	path = meta-openembedded
 	url = git://git.openembedded.org/meta-openembedded
 	branch = mickledore
+[submodule "meta-openhd"]
+	path = meta-openhd
+	url = git@github.com:buldo/meta-openhd.git
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+    branch = mickledore
