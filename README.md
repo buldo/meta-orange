@@ -4,8 +4,8 @@ This is experimental repo. Do not use it
 # How to build for orange
 ```sh
 git clone --recurse-submodules https://github.com/buldo/openhd-yocto-build.git
-cd meta-orange
-source poky/oe-init-build-env ./meta-orange
+cd openhd-yocto-build
+source poky/oe-init-build-env ./orange-build
 
 # Build demo image
 bitbake openhd-ground-image
