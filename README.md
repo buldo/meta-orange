@@ -3,7 +3,7 @@ This is experimental repo. Do not use it
 
 # How to build for orange
 ```sh
-git clone --recurse-submodules https://github.com/buldo/meta-orange.git
+git clone --recurse-submodules https://github.com/buldo/openhd-yocto-build.git
 cd meta-orange
 source poky/oe-init-build-env ./meta-orange
 
