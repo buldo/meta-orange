@@ -12,3 +12,10 @@ fstab
 .config.notes
 include/
 .vs/
+
+orange-build/cache
+orange-build/downloads
+orange-build/sstate-cache
+orange-build/tmp
+orange-build/bitbake-cookerdaemon.log
+orange-build/conf/conf-notes.txt
