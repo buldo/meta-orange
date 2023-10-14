@@ -1,6 +1,6 @@
 [submodule "poky"]
 	path = poky
-	url = git://git.yoctoproject.org/poky.git
+	url = https://git.yoctoproject.org/git/poky
 	branch = mickledore
 [submodule "meta-sunxi"]
 	path = meta-sunxi
@@ -8,7 +8,7 @@
 	branch = pi-lite
 [submodule "meta-arm"]
 	path = meta-arm
-	url = git://git.yoctoproject.org/meta-arm
+	url = https://git.yoctoproject.org/git/meta-arm
 	branch = mickledore
 [submodule "meta-openembedded"]
 	path = meta-openembedded
@@ -16,7 +16,7 @@
 	branch = mickledore
 [submodule "meta-openhd"]
 	path = meta-openhd
-	url = git@github.com:buldo/meta-openhd.git
+	url = https://git.openembedded.org/git/meta-openembedded
 [submodule "meta-qt5"]
 	path = meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5.git
