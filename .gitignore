@@ -19,6 +19,7 @@ orange-build/sstate-cache
 orange-build/tmp
 orange-build/bitbake-cookerdaemon.log
 orange-build/conf/conf-notes.txt
+orange-build/sunxi-sdcard-image.wks*
 
 meson-build/cache
 meson-build/downloads
@@ -26,3 +27,4 @@ meson-build/sstate-cache
 meson-build/tmp
 meson-build/bitbake-cookerdaemon.log
 meson-build/conf/conf-notes.txt
+
