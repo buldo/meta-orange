@@ -13,18 +13,25 @@ fstab
 include/
 .vs/
 
-orange-build/cache
-orange-build/downloads
-orange-build/sstate-cache
-orange-build/tmp
-orange-build/bitbake-cookerdaemon.log
-orange-build/conf/conf-notes.txt
-orange-build/sunxi-sdcard-image.wks*
+orange-sunxi/cache
+orange-sunxi/downloads
+orange-sunxi/sstate-cache
+orange-sunxi/tmp
+orange-sunxi/bitbake-cookerdaemon.log
+orange-sunxi/conf/conf-notes.txt
+orange-sunxi/sunxi-sdcard-image.wks*
 
-meson-build/cache
-meson-build/downloads
-meson-build/sstate-cache
-meson-build/tmp
-meson-build/bitbake-cookerdaemon.log
-meson-build/conf/conf-notes.txt
+build-rk/cache
+build-rk/downloads
+build-rk/sstate-cache
+build-rk/tmp
+build-rk/bitbake-cookerdaemon.log
+build-rk/conf/conf-notes.txt
+
+build-meson/cache
+build-meson/downloads
+build-meson/sstate-cache
+build-meson/tmp
+build-meson/bitbake-cookerdaemon.log
+build-meson/conf/conf-notes.txt
 
